@@ -9,6 +9,7 @@
  */
 
 int main() {
+
 	int c, nl, nw, nc, inword;
 
 	inword = NO;
